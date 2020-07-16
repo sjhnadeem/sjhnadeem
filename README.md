@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello World, I am Syed Jafor! 👋
 
-<!--
-**sjhnadeem/sjhnadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a self-employed Freelancer.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with AI.
+- 💬 Ask me about Flutter or any tech related stuff.
+- 📫 How to reach me: [Twitter - @syedjafor](https://twitter.com/syedjafor), [Instagram - @developer_syed](https://www.instagram.com/developer_syed/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact:
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=sjhnadeem&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
