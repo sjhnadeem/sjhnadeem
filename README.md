@@ -27,7 +27,6 @@
 <br />
 <br />
 
--->
 <img src="https://github-readme-stats.vercel.app/api?username=sjhnadeem&&show_icons=true&theme=cobalt">
 
 [website]: https://sjhnadeem.github.io/
