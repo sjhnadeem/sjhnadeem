@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm Syed Jafor</h1>
+### Hello World 👋, I'm Syed Jafor
 
 
 #### Connect with me:
