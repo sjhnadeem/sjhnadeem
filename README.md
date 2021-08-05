@@ -22,4 +22,4 @@
 [youtube]: https://www.linkedin.com/in/syedjafor/
 [linkedin]: https://www.linkedin.com/in/syedjafor/
 [stackoverflow]: https://stackoverflow.com/users/12273383/syed-hussain
-//[instagram]: https://www.instagram.com/developer_syed/
+<!--[instagram]: https://www.instagram.com/developer_syed/-->
