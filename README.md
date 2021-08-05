@@ -20,6 +20,6 @@
 [website]: https://sjhnadeem.github.io/
 [twitter]: https://twitter.com/syedjafor
 [youtube]: https://www.linkedin.com/in/syedjafor/
-//[instagram]: https://www.instagram.com/developer_syed/
 [linkedin]: https://www.linkedin.com/in/syedjafor/
 [stackoverflow]: https://stackoverflow.com/users/12273383/syed-hussain
+//[instagram]: https://www.instagram.com/developer_syed/
