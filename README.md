@@ -16,7 +16,6 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjhnadeem&show_icons=true&theme=cobalt)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjhnadeem&theme=dark&show_icons=true)
 
 [website]: https://sjhnadeem.github.io/
 [twitter]: https://twitter.com/syedjafor
